@@ -1,0 +1,192 @@
+
+    <div id="1398cb1e-231b-449d-b609-0a09bfd39e2c">
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $(".scrollUpTop li a").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            });
+        });
+        </script>
+        <div class="row_course">
+            <div class="post-content">
+                <div class="post-warp clearfix">
+                        <h3 class="h3news">
+                            <a class="title-item" href="https://www.rice-ins.com/1048/tin-tuc.html">Tin tức</a>
+                        </h3>
+
+
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13193/hai-nguoi-viet-nam-duoc-vinh-danh-trong-danh-sach-100-nha-khoa-hoc-hang-dau-chau-a.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/21/8586508418094547877.jpg" alt="Hai người Việt Nam được vinh danh trong danh s&#225;ch 100 nh&#224; khoa học h&#224;ng đầu Ch&#226;u &#193;"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13193/hai-nguoi-viet-nam-duoc-vinh-danh-trong-danh-sach-100-nha-khoa-hoc-hang-dau-chau-a.html">Hai người Việt Nam được vinh danh trong danh s&#225;ch 100 nh&#224; khoa học h&#224;ng đầu Ch&#226;u &#193;</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 21/02/2019 11:05:16 CH</li>
+                                    </ul>
+
+                                    <p> Tạp ch&iacute; Nh&agrave; khoa học ch&acirc;u &Aacute; c&oacute; trụ sở tại Singapore đ&atilde; n&ecirc;u t&ecirc;n hai người Việt Nam - Gi&aacute;o sư Phan Thanh Sơn Nam v&agrave; Ph&oacute; gi&aacute;o sư Nguyễn Sum - trong danh s&aacute;ch 100 nh&agrave; khoa học h&agrave;ng đầu ch&acirc;u &Aacute; được c&ocirc;ng bố gần đ&acirc;y.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13193/hai-nguoi-viet-nam-duoc-vinh-danh-trong-danh-sach-100-nha-khoa-hoc-hang-dau-chau-a.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13191/olympic-phat-minh-va-sang-tao-the-gioi-wico.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/20/8586509623417825579.jpg" alt="Olympic Ph&#225;t minh v&#224; S&#225;ng tạo Thế giới WICO"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13191/olympic-phat-minh-va-sang-tao-the-gioi-wico.html">Olympic Ph&#225;t minh v&#224; S&#225;ng tạo Thế giới WICO</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 20/02/2019 1:35:47 CH</li>
+                                    </ul>
+
+                                    <p> <div style="text-align: justify;">Olympic Ph&aacute;t minh v&agrave; S&aacute;ng tạo Thế giới WICO (World Invention and Creativity Olympiad) l&agrave; kỳ thi d&agrave;nh cho c&aacute;c nh&oacute;m học sinh phổ th&ocirc;ng với những ph&aacute;t minh v&agrave; s&aacute;ng chế thực tiễn.</div>
+</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13191/olympic-phat-minh-va-sang-tao-the-gioi-wico.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13188/thailand-inventors-day-2019.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/20/8586509705655794697.jpg" alt="Thailand Inventors Day 2019"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13188/thailand-inventors-day-2019.html">Thailand Inventors Day 2019</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 20/02/2019 11:18:45 SA</li>
+                                    </ul>
+
+                                    <p> Ng&agrave;y 2 th&aacute;ng 2 h&agrave;ng năm l&agrave; Ng&agrave;y C&aacute;c nh&agrave; ph&aacute;t minh tại Th&aacute;i Lan nhằm t&ocirc;n vinh th&agrave;nh tựu của Ho&agrave;ng thượng Bhumibol Adulyadej, cung cấp một nền tảng t&igrave;m kiếm cơ hội kinh doanh, hợp t&aacute;c hoặc đầu tư, thu h&uacute;t hơn hơn 1000 nh&agrave; ph&aacute;t minh v&agrave; hơn hai mươi ng&agrave;n người tham gia.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13188/thailand-inventors-day-2019.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13183/ky-thi-phat-minh-va-sang-che-quoc-te-intarg.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/16/8586513118119919588.jpg" alt="Kỳ thi Ph&#225;t minh v&#224; S&#225;ng chế Quốc tế (INTARG)"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13183/ky-thi-phat-minh-va-sang-che-quoc-te-intarg.html">Kỳ thi Ph&#225;t minh v&#224; S&#225;ng chế Quốc tế (INTARG)</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 16/02/2019 12:31:33 CH</li>
+                                    </ul>
+
+                                    <p> <div style="text-align: justify;">Kỳ thi Ph&aacute;t minh v&agrave; S&aacute;ng chế Quốc tế (INTARG)&nbsp;quảng b&aacute; c&aacute;c sản phẩm theo định hướng thị trường, c&ocirc;ng nghệ v&agrave; dịch vụ đổi mới. Kỳ thi&nbsp;c&oacute; chức năng như một nền tảng tiếp x&uacute;c v&agrave; gặp gỡ trực tiếp giữa c&aacute;c đại diện của khoa học, doanh nghiệp đổi mới, ng&agrave;nh c&ocirc;ng nghiệp v&agrave; doanh nghiệp xung quanh v&agrave; c&aacute;c đơn vị hỗ trợ v&agrave; t&agrave;i trợ cho nghi&ecirc;n cứu v&agrave; ph&aacute;t triển khoa học.</div>
+</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13183/ky-thi-phat-minh-va-sang-che-quoc-te-intarg.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right scrollUpTop">
+                                <li><a class='attach link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=6"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048">1</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=2">2</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=4">4</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=5">5</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#1398cb1e-231b-449d-b609-0a09bfd39e2c" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=6">6</a></li><li class="active"><a>7</a></li><li><a><i class='fa fa-angle-right'></i></a></li>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 

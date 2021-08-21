@@ -1,0 +1,146 @@
+
+    <div id="230eabc3-7d2e-4ae2-b3ac-966864bf2677">
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $(".scrollUpTop li a").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            });
+        });
+        </script>
+        <div class="row_course">
+            <div class="post-content">
+                <div class="post-warp clearfix">
+
+
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="../../../ky-thi-quoc-te/post/13212/chuong-trinh-lanh-dao-tre-toan-cau-singapore.html"><img src="../../../Uploads/20/2019/4/10/8586467117994324359.jpg" alt="Chương tr&#236;nh L&#227;nh đạo trẻ To&#224;n cầu Singapore"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="../../../ky-thi-quoc-te/post/13212/chuong-trinh-lanh-dao-tre-toan-cau-singapore.html">Chương tr&#236;nh L&#227;nh đạo trẻ To&#224;n cầu Singapore</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Kỳ thi quốc tế</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 10/04/2019 6:21:43 CH</li>
+                                    </ul>
+
+                                    <p> <span style="font-size:16px;">Chương tr&igrave;nh L&atilde;nh đạo trẻ To&agrave;n cầu l&agrave; một cuộc trải nghiệm k&eacute;o d&agrave;i 4 ng&agrave;y, nơi học sinh sẽ đắm ch&igrave;m trong kh&ocirc;ng gian thử th&aacute;ch l&agrave; nh&agrave; l&atilde;nh đạo s&aacute;ng tạo cộng đồng.</span></p>
+
+
+                                    <a class="flat-button orange" href="../../../ky-thi-quoc-te/post/13212/chuong-trinh-lanh-dao-tre-toan-cau-singapore.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="../../../ky-thi-quoc-te/post/13210/cuoc-thi-phat-minh-va-sang-che-quoc-te-silicon-valley-sviif.html"><img src="../../../Uploads/20/2019/4/10/8586467142895105143.jpg" alt="Cuộc thi Ph&#225;t minh v&#224; S&#225;ng chế Quốc tế Silicon Valley (SVIIF)"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="../../../ky-thi-quoc-te/post/13210/cuoc-thi-phat-minh-va-sang-che-quoc-te-silicon-valley-sviif.html">Cuộc thi Ph&#225;t minh v&#224; S&#225;ng chế Quốc tế Silicon Valley (SVIIF)</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Kỳ thi quốc tế</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 10/04/2019 5:45:21 CH</li>
+                                    </ul>
+
+                                    <p> <span style="font-size:16px;">Cuộc thi Ph&aacute;t minh v&agrave; S&aacute;ng chế Quốc tế Silicon Valley diễn ra tại Trung t&acirc;m hội nghị Santa Clara, nơi tổ chức c&aacute;c sự kiện tầm cỡ thế giới, từ ng&agrave;y 23 đến 25 th&aacute;ng 6 năm 2020. Sự kiện thu h&uacute;t hơn 400 nh&agrave; ph&aacute;t minh đến từ 30 nước với hơn 500 ph&aacute;t minh v&agrave; s&aacute;ng chế.</span></p>
+
+
+                                    <a class="flat-button orange" href="../../../ky-thi-quoc-te/post/13210/cuoc-thi-phat-minh-va-sang-che-quoc-te-silicon-valley-sviif.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="../../../ky-thi-quoc-te/post/13209/olympic-phat-minh-va-sang-che-the-gioi-wico.html"><img src="../../../Uploads/20/2020/6/29/8586081829071663464.jpg" alt="Olympic Ph&#225;t minh v&#224; S&#225;ng chế Thế giới (WICO)"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="../../../ky-thi-quoc-te/post/13209/olympic-phat-minh-va-sang-che-the-gioi-wico.html">Olympic Ph&#225;t minh v&#224; S&#225;ng chế Thế giới (WICO)</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Kỳ thi quốc tế</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 10/04/2019 5:12:55 CH</li>
+                                    </ul>
+
+                                    <p> <span style="font-size:16px;">Olympic Ph&aacute;t minh v&agrave; S&aacute;ng chế Thế giới WICO l&agrave; cuộc thi thường ni&ecirc;n được th&agrave;nh lập v&agrave; tổ chức bởi Hiệp hội Ph&aacute;t minh S&aacute;ng chế c&aacute;c trường Đại học H&agrave;n Quốc v&agrave; được Quốc hội H&agrave;n Quốc bảo trợ</span></p>
+
+
+                                    <a class="flat-button orange" href="../../../ky-thi-quoc-te/post/13209/olympic-phat-minh-va-sang-che-the-gioi-wico.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right scrollUpTop">
+                                <li><a class='attach link'  data-ajax="true" data-ajax-update="#230eabc3-7d2e-4ae2-b3ac-966864bf2677" data-ajax-mode="replace" href="155374b06.html?menuId=10&amp;newsId=10"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#230eabc3-7d2e-4ae2-b3ac-966864bf2677" data-ajax-mode="replace" href="155374b06.html?menuId=10&amp;newsId=10">1</a></li><li class="active"><a>2</a></li><li><a><i class='fa fa-angle-right'></i></a></li>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 

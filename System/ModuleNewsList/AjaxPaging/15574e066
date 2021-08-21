@@ -1,0 +1,233 @@
+
+    <div id="c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee">
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $(".scrollUpTop li a").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            });
+        });
+        </script>
+        <div class="row_course">
+            <div class="post-content">
+                <div class="post-warp clearfix">
+                        <h3 class="h3news">
+                            <a class="title-item" href="https://www.rice-ins.com/1048/tin-tuc.html">Tin tức</a>
+                        </h3>
+
+
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13239/rice-to-chuc-thanh-cong-khoa-dao-tao-nang-cao-nang-luc-lanh-dao-va-quan-ly-tai-truong-dh-george-wash.html"><img src="https://www.rice-ins.com/Uploads//20/2020/3/3/8586183974066858585.jpg" alt="RICE tổ chức th&#224;nh c&#244;ng kh&#243;a đ&#224;o tạo “N&#226;ng cao năng lực l&#227;nh đạo v&#224; quản l&#253;” tại trường ĐH George Washington"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13239/rice-to-chuc-thanh-cong-khoa-dao-tao-nang-cao-nang-luc-lanh-dao-va-quan-ly-tai-truong-dh-george-wash.html">RICE tổ chức th&#224;nh c&#244;ng kh&#243;a đ&#224;o tạo “N&#226;ng cao năng lực l&#227;nh đạo v&#224; quản l&#253;” tại trường ĐH George Washington</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 03/03/2020 10:19:05 SA</li>
+                                    </ul>
+
+                                    <p> Viện Nghi&ecirc;n cứu Khoa học Gi&aacute;o dục S&aacute;ng tạo (RICE) đ&atilde; tổ chức th&agrave;nh c&ocirc;ng kh&oacute;a đ&agrave;o tạo &ldquo;N&acirc;ng cao năng lực l&atilde;nh đạo v&agrave; quản l&yacute;&rdquo; tại trường ĐH George Washington, từ ng&agrave;y 27/10/2019 &ndash; 9/11/2019.<br />
+&nbsp;</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13239/rice-to-chuc-thanh-cong-khoa-dao-tao-nang-cao-nang-luc-lanh-dao-va-quan-ly-tai-truong-dh-george-wash.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13234/viet-nam-nhat-toan-doan-cuoc-thi-khkt-tai-xu-so-chua-vang.html"><img src="https://www.rice-ins.com/Uploads//20/2020/2/6/8586206259128089490.jpg" alt="Việt Nam nhất to&#224;n đo&#224;n Cuộc thi KHKT tại Xứ sở Ch&#249;a v&#224;ng"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13234/viet-nam-nhat-toan-doan-cuoc-thi-khkt-tai-xu-so-chua-vang.html">Việt Nam nhất to&#224;n đo&#224;n Cuộc thi KHKT tại Xứ sở Ch&#249;a v&#224;ng</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 06/02/2020 4:49:55 CH</li>
+                                    </ul>
+
+                                    <p> Tại IPITEx 2020, Viện Nghi&ecirc;n cứu Khoa học Gi&aacute;o dục S&aacute;ng tạo (RICE) đ&atilde; tham dự với 5 đội v&agrave; đạt được 5 Huy chương v&agrave;ng, 5 giải đặc biệt - th&agrave;nh t&iacute;ch nhất to&agrave;n đo&agrave;n.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13234/viet-nam-nhat-toan-doan-cuoc-thi-khkt-tai-xu-so-chua-vang.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13233/ket-qua-vong-thi-quoc-te-seamo-x-tai-australia.html"><img src="https://www.rice-ins.com/Uploads//20/2020/1/23/8586218484662379374.jpg" alt="Kết quả v&#242;ng thi Quốc tế SEAMO X tại Australia"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13233/ket-qua-vong-thi-quoc-te-seamo-x-tai-australia.html">Kết quả v&#242;ng thi Quốc tế SEAMO X tại Australia</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 21/01/2020 11:13:34 CH</li>
+                                    </ul>
+
+                                    <p> Đo&agrave;n Việt Nam tham dự kỳ thi Olympic To&aacute;n học quốc tế SEAMO (Southeast Asian Mathematical Olympiad) tại Gold Coast, &Uacute;c từ ng&agrave;y 17/01 đến ng&agrave;y 20/01/2020 gồm 22 th&iacute; sinh, 6 thầy c&ocirc; v&agrave; c&aacute;c phụ huynh học sinh thi c&ugrave;ng kết quả đạt được 1 huy chương V&agrave;ng, 2 huy chương Bạc, 3 huy chương Đồng v&agrave; 16 giải khuyến kh&iacute;ch.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13233/ket-qua-vong-thi-quoc-te-seamo-x-tai-australia.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13232/nam-sinh-lao-cai-dat-diem-tuyet-doi-asmo-2019.html"><img src="https://www.rice-ins.com/Uploads//20/2019/12/19/8586248615116504040.jpg" alt="Nam sinh L&#224;o Cai đạt điểm tuyệt đối ASMO 2019"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13232/nam-sinh-lao-cai-dat-diem-tuyet-doi-asmo-2019.html">Nam sinh L&#224;o Cai đạt điểm tuyệt đối ASMO 2019</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 19/12/2019 4:00:31 CH</li>
+                                    </ul>
+
+                                    <p> ASMO l&agrave; kỳ thi đ&aacute;nh gi&aacute; năng lực Khoa học, To&aacute;n v&agrave; Tiếng Anh to&agrave;n cầu d&agrave;nh cho học sinh từ cấp Tiểu học đến Trung học phổ th&ocirc;ng do Ban Tổ chức ASMO Quốc tế điều h&agrave;nh. Thương hiệu kỳ thi đ&atilde; được biết đến tr&ecirc;n to&agrave;n thế giới.<br />
+&nbsp;</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13232/nam-sinh-lao-cai-dat-diem-tuyet-doi-asmo-2019.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13231/hoc-sinh-rice-nhan-hoc-bong-toan-phan-truong-dai-hoc-top-8-hoa-ky.html"><img src="https://www.rice-ins.com/Uploads//20/2019/12/14/8586252879961565935.jpg" alt="Học sinh RICE nhận học bổng to&#224;n phần trường Đại học Top 8 Hoa Kỳ"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13231/hoc-sinh-rice-nhan-hoc-bong-toan-phan-truong-dai-hoc-top-8-hoa-ky.html">Học sinh RICE nhận học bổng to&#224;n phần trường Đại học Top 8 Hoa Kỳ</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 14/12/2019 5:18:27 CH</li>
+                                    </ul>
+
+                                    <p> <span style="font-size:14px;">Nguyễn Nhật Quang, học sinh lớp 12 To&aacute;n 1 Trường THPT Chuy&ecirc;n H&agrave; Nội &ndash; Amsterdam đ&atilde; d&agrave;nh được học bổng to&agrave;n phần của trường Đại học Rice (<strong>William Marsh Rice University</strong>) trong V&ograve;ng nộp hồ sơ sớm (Early Decision) của c&aacute;c trường Đại học tại Mỹ.</span></p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13231/hoc-sinh-rice-nhan-hoc-bong-toan-phan-truong-dai-hoc-top-8-hoa-ky.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right scrollUpTop">
+                                <li><a class='attach link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=2"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048">1</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=2">2</a></li><li class="active"><a>3</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=4">4</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=6">6</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=7">7</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#c04ac05d-b9db-4c1a-bbd6-c1777f60e0ee" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=4"><i class='fa fa-angle-right'></i></a></li>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 

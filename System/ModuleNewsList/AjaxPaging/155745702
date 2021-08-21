@@ -1,0 +1,232 @@
+
+    <div id="0ff58b01-e4a2-4314-973d-bb76d33a3317">
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $(".scrollUpTop li a").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            });
+        });
+        </script>
+        <div class="row_course">
+            <div class="post-content">
+                <div class="post-warp clearfix">
+                        <h3 class="h3news">
+                            <a class="title-item" href="https://www.rice-ins.com/1048/tin-tuc.html">Tin tức</a>
+                        </h3>
+
+
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13229/ket-qua-vong-3-asmo-2019-tai-ho-nam-trung-quoc.html"><img src="https://www.rice-ins.com/Uploads//20/2019/12/5/8586260734130360339.jpg" alt="Kết quả v&#242;ng 3 ASMO 2019 tại Hồ Nam, Trung Quốc"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13229/ket-qua-vong-3-asmo-2019-tai-ho-nam-trung-quoc.html">Kết quả v&#242;ng 3 ASMO 2019 tại Hồ Nam, Trung Quốc</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 05/12/2019 3:19:58 CH</li>
+                                    </ul>
+
+                                    <p> Ng&agrave;y 01/12 vừa qua, Lễ trao giải V&ograve;ng 3 Kỳ thi ASMO đ&atilde; diễn ra tại Hồ Nam, Trung Quốc. Đo&agrave;n học sinh Việt Nam đ&atilde; xuất sắc gi&agrave;nh 2 Huy chương V&agrave;ng, 4 Huy chương bạc, 3 Huy chương Đồng v&agrave; Giải nhất đồng đội m&ocirc;n To&aacute;n. Em Nguyễn Việt Ho&agrave;ng, học sinh trường L&ecirc; Qu&yacute; Đ&ocirc;n, tỉnh L&agrave;o Cai đạt điểm tối đa 100/100 m&ocirc;n To&aacute;n, đạt Huy chương V&agrave;ng, xếp hạng nhất to&agrave;n đo&agrave;n.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13229/ket-qua-vong-3-asmo-2019-tai-ho-nam-trung-quoc.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13227/team-rice-dat-thanh-tich-cao-tai-cuoc-thi-quoc-te-ve-y-tuong-phat-minh-va-sang-che-san-pham-moi-iena.html"><img src="https://www.rice-ins.com/Uploads//20/2019/11/8/8586283950365303111.jpg" alt="Team RICE đạt th&#224;nh t&#237;ch cao tại Cuộc thi Quốc tế về &#221; tưởng Ph&#225;t minh v&#224; S&#225;ng chế Sản phẩm mới iENA"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13227/team-rice-dat-thanh-tich-cao-tai-cuoc-thi-quoc-te-ve-y-tuong-phat-minh-va-sang-che-san-pham-moi-iena.html">Team RICE đạt th&#224;nh t&#237;ch cao tại Cuộc thi Quốc tế về &#221; tưởng Ph&#225;t minh v&#224; S&#225;ng chế Sản phẩm mới iENA</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 08/11/2019 5:57:46 CH</li>
+                                    </ul>
+
+                                    <p> Lần đầu ti&ecirc;n tham gia cuộc thi, Team RICE xuất sắc đạt được 2 Huy chương v&agrave;ng với c&aacute;c đề t&agrave;i&nbsp;tập trung v&agrave;o c&aacute;c vấn đề được x&atilde; hội, giới khoa học quan t&acirc;m, c&oacute; t&iacute;nh ứng dụng cao&nbsp;thuộc c&aacute;c lĩnh vực: y sinh, ho&aacute; sinh...&nbsp;Tại cuộc thi, c&aacute;c đội&nbsp;phải tr&igrave;nh b&agrave;y kết quả nghi&ecirc;n cứu v&agrave; trả lời c&aacute;c c&acirc;u hỏi của Ban Gi&aacute;m khảo đưa ra. C&aacute;c đề t&agrave;i nghi&ecirc;n cứu phải c&oacute; t&iacute;nh mới, s&aacute;ng tạo v&agrave; thiết thực.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13227/team-rice-dat-thanh-tich-cao-tai-cuoc-thi-quoc-te-ve-y-tuong-phat-minh-va-sang-che-san-pham-moi-iena.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13224/le-tuyen-duong-cac-thi-sinh-dat-giai-trong-cac-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-2019.html"><img src="https://www.rice-ins.com/Uploads//20/2019/8/15/8586357440754017361.jpg" alt="Lễ tuy&#234;n dương c&#225;c th&#237; sinh đạt giải trong c&#225;c Kỳ thi Olympic Khoa học Kỹ thuật Quốc tế 2019"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13224/le-tuyen-duong-cac-thi-sinh-dat-giai-trong-cac-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-2019.html">Lễ tuy&#234;n dương c&#225;c th&#237; sinh đạt giải trong c&#225;c Kỳ thi Olympic Khoa học Kỹ thuật Quốc tế 2019</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 15/08/2019 4:58:49 CH</li>
+                                    </ul>
+
+                                    <p> Ng&agrave;y 11/8 vừa qua, Viện Nghi&ecirc;n cứu Khoa học Gi&aacute;o dục S&aacute;ng tạo (RICE) đ&atilde; tổ chức Lễ tuy&ecirc;n dương c&aacute;c học sinh đạt giải tại c&aacute;c Kỳ thi Olympic Khoa học Kỹ thuật Quốc tế 2019&nbsp;tại Hội trường Đại học Kinh tế, Đại học Quốc gia H&agrave; Nội.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13224/le-tuyen-duong-cac-thi-sinh-dat-giai-trong-cac-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-2019.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13223/team-rice-dat-thanh-tich-cao-tai-chuong-trinh-lanh-dao-tre-toan-cau-singapore.html"><img src="https://www.rice-ins.com/Uploads//20/2019/8/13/8586359454200236101.jpg" alt="Team RICE đạt th&#224;nh t&#237;ch cao tại Chương tr&#236;nh L&#227;nh đạo trẻ To&#224;n cầu - Singapore"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13223/team-rice-dat-thanh-tich-cao-tai-chuong-trinh-lanh-dao-tre-toan-cau-singapore.html">Team RICE đạt th&#224;nh t&#237;ch cao tại Chương tr&#236;nh L&#227;nh đạo trẻ To&#224;n cầu - Singapore</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 13/08/2019 9:04:27 SA</li>
+                                    </ul>
+
+                                    <p> Chương tr&igrave;nh bao gồm c&aacute;c hoạt động trải nghiệm th&uacute; vị với ti&ecirc;u điểm l&agrave; cuộc thi Global Link được tổ chức tại Đại học C&ocirc;ng nghệ Nanyang, trường Đại học được xếp hạng cao nhất Ch&acirc;u &Aacute; (theo QS World University Rankings 2018).</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13223/team-rice-dat-thanh-tich-cao-tai-chuong-trinh-lanh-dao-tre-toan-cau-singapore.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13222/team-rice-gianh-hcv-olympic-phat-minh-va-sang-che-the-gioi-wico-2019.html"><img src="https://www.rice-ins.com/Uploads//20/2019/8/3/8586368046776183222.jpg" alt="Team RICE gi&#224;nh HCV Olympic Ph&#225;t minh v&#224; S&#225;ng chế Thế giới - WICO 2019"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13222/team-rice-gianh-hcv-olympic-phat-minh-va-sang-che-the-gioi-wico-2019.html">Team RICE gi&#224;nh HCV Olympic Ph&#225;t minh v&#224; S&#225;ng chế Thế giới - WICO 2019</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 03/08/2019 10:17:12 SA</li>
+                                    </ul>
+
+                                    <p> <p>Ng&agrave;y 27-7, tại H&agrave;n Quốc, t&aacute;m đội học sinh của Việt Nam tham gia Cuộc thi Olympic Ph&aacute;t minh v&agrave; S&aacute;ng chế thế giới 2019 (WICO) đều gi&agrave;nh Huy chương V&agrave;ng. Ban Tổ chức đ&atilde; trao Giải Đo&agrave;n đoạt th&agrave;nh t&iacute;ch xuất sắc nhất (Excellence Award) c&ugrave;ng c&uacute;p xuất sắc cho Đo&agrave;n. Đồng thời, hai trong số t&aacute;m đội của Việt Nam được Hiệp hội Ph&aacute;t minh v&agrave; s&aacute;ng chế Indonesia (Innopa) trao Giải Special Award; Viện Nghi&ecirc;n cứu ph&aacute;t triển s&aacute;ng chế Malang, Indonesia trao Giải Special Prize.</p>
+</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13222/team-rice-gianh-hcv-olympic-phat-minh-va-sang-che-the-gioi-wico-2019.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right scrollUpTop">
+                                <li><a class='attach link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=3"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048">1</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=3">3</a></li><li class="active"><a>4</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=5">5</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=7">7</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#0ff58b01-e4a2-4314-973d-bb76d33a3317" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=5"><i class='fa fa-angle-right'></i></a></li>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 

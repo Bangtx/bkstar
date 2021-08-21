@@ -1,0 +1,49 @@
+
+<div id="37ca9676-4a13-444f-9dc7-a9e7730d2e4f">
+            <div class="widget widget-popular-news">
+                    <h5 class="bold title"><a href="https://www.rice-ins.com/1048/tin-tuc-moi.html">TIN TỨC MỚI</a></h5>
+                <ul class="popular-news clearfix">
+                        <li>
+                            <div class="thumb">
+                                <img src="https://www.rice-ins.com/Uploads//20/2019/2/21/8586508418094547877.jpg" alt="image">
+                            </div>
+                            <div class="text">
+                                <a href="https://www.rice-ins.com/tin-tuc/post/13193/hai-nguoi-viet-nam-duoc-vinh-danh-trong-danh-sach-100-nha-khoa-hoc-hang-dau-chau-a.html">Hai người Việt Nam được vinh danh trong danh s&#225;ch 100 nh&#224; khoa học h&#224;ng đầu Ch&#226;u &#193;</a>
+                                <p>21/02/2019 11:05:16 CH</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="thumb">
+                                <img src="https://www.rice-ins.com/Uploads//20/2019/2/20/8586509623417825579.jpg" alt="image">
+                            </div>
+                            <div class="text">
+                                <a href="https://www.rice-ins.com/tin-tuc/post/13191/olympic-phat-minh-va-sang-tao-the-gioi-wico.html">Olympic Ph&#225;t minh v&#224; S&#225;ng tạo Thế giới WICO</a>
+                                <p>20/02/2019 1:35:47 CH</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="thumb">
+                                <img src="https://www.rice-ins.com/Uploads//20/2019/2/20/8586509705655794697.jpg" alt="image">
+                            </div>
+                            <div class="text">
+                                <a href="https://www.rice-ins.com/tin-tuc/post/13188/thailand-inventors-day-2019.html">Thailand Inventors Day 2019</a>
+                                <p>20/02/2019 11:18:45 SA</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="thumb">
+                                <img src="https://www.rice-ins.com/Uploads//20/2019/2/16/8586513118119919588.jpg" alt="image">
+                            </div>
+                            <div class="text">
+                                <a href="https://www.rice-ins.com/tin-tuc/post/13183/ky-thi-phat-minh-va-sang-che-quoc-te-intarg.html">Kỳ thi Ph&#225;t minh v&#224; S&#225;ng chế Quốc tế (INTARG)</a>
+                                <p>16/02/2019 12:31:33 CH</p>
+                            </div>
+                        </li>
+
+                </ul><!-- /popular-news clearfix -->
+                    <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right">
+                        <li><a class='attach link'  data-ajax="true" data-ajax-update="#37ca9676-4a13-444f-9dc7-a9e7730d2e4f" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleLastNewsList/AjaxPaging/15584?menuId=1048&amp;page=6"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#37ca9676-4a13-444f-9dc7-a9e7730d2e4f" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleLastNewsList/AjaxPaging/15584?menuId=1048">1</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#37ca9676-4a13-444f-9dc7-a9e7730d2e4f" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleLastNewsList/AjaxPaging/15584?menuId=1048&amp;page=2">2</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#37ca9676-4a13-444f-9dc7-a9e7730d2e4f" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleLastNewsList/AjaxPaging/15584?menuId=1048&amp;page=5">5</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#37ca9676-4a13-444f-9dc7-a9e7730d2e4f" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleLastNewsList/AjaxPaging/15584?menuId=1048&amp;page=6">6</a></li><li class="active"><a>7</a></li><li><a><i class='fa fa-angle-right'></i></a></li>
+                    </div>
+            </div><!-- /widget widget-popular-news -->
+</div>
+ 

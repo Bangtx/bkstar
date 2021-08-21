@@ -1,0 +1,232 @@
+
+    <div id="402bd8ad-f3cb-4493-a2b7-14c9cdb2733d">
+
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $(".scrollUpTop li a").click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 1000, 'easeInOutExpo');
+            });
+        });
+        </script>
+        <div class="row_course">
+            <div class="post-content">
+                <div class="post-warp clearfix">
+                        <h3 class="h3news">
+                            <a class="title-item" href="https://www.rice-ins.com/1048/tin-tuc.html">Tin tức</a>
+                        </h3>
+
+
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13204/le-ky-ket-thoa-thuan-huu-nghi-giua-rice-va-kuia.html"><img src="https://www.rice-ins.com/Uploads//20/2019/3/5/8586498028180086243.jpg" alt="Lễ K&#253; Kết Thỏa Thuận Hữu Nghị Giữa RICE v&#224; KUIA"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13204/le-ky-ket-thoa-thuan-huu-nghi-giua-rice-va-kuia.html">Lễ K&#253; Kết Thỏa Thuận Hữu Nghị Giữa RICE v&#224; KUIA</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 05/03/2019 11:41:37 CH</li>
+                                    </ul>
+
+                                    <p> Ng&agrave;y 03/03 vừa qua, Viện Nghi&ecirc;n cứu Khoa học Gi&aacute;o dục S&aacute;ng tạo (RICE) v&agrave;&nbsp;Hiệp hội Ph&aacute;t minh v&agrave; S&aacute;ng tạo c&aacute;c trường Đại học H&agrave;n Quốc (KUIA) đ&atilde; k&yacute; kết thỏa thuận hữu nghị</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13204/le-ky-ket-thoa-thuan-huu-nghi-giua-rice-va-kuia.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13203/le-tuyen-duong-va-trao-giai-cac-hoc-sinh-dat-giai-tai-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-ipite.html"><img src="https://www.rice-ins.com/Uploads//20/2019/3/6/8586497582365711126.jpg" alt="Lễ tuy&#234;n dương v&#224; trao giải c&#225;c học sinh đạt giải tại Kỳ thi Olympic Khoa học Kỹ thuật Quốc tế IPITEx 2019"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13203/le-tuyen-duong-va-trao-giai-cac-hoc-sinh-dat-giai-tai-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-ipite.html">Lễ tuy&#234;n dương v&#224; trao giải c&#225;c học sinh đạt giải tại Kỳ thi Olympic Khoa học Kỹ thuật Quốc tế IPITEx 2019</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 05/03/2019 10:51:58 CH</li>
+                                    </ul>
+
+                                    <p> Ng&agrave;y 03/03 vừa qua, Viện Nghi&ecirc;n cứu Khoa học Gi&aacute;o dục S&aacute;ng tạo (RICE) đ&atilde; tổ chức Lễ tuy&ecirc;n dương c&aacute;c học sinh đạt giải tại Kỳ thi Olympic Khoa học kỹ thuật IPITEx 2019</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13203/le-tuyen-duong-va-trao-giai-cac-hoc-sinh-dat-giai-tai-ky-thi-olympic-khoa-hoc-ky-thuat-quoc-te-ipite.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13202/nhung-guong-mat-tieu-bieu-dong-hanh-cung-vien-rice.html"><img src="https://www.rice-ins.com/Uploads//20/2019/3/5/8586498421833211252.jpg" alt="Những gương mặt ti&#234;u biểu đồng h&#224;nh c&#249;ng viện RICE"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13202/nhung-guong-mat-tieu-bieu-dong-hanh-cung-vien-rice.html">Những gương mặt ti&#234;u biểu đồng h&#224;nh c&#249;ng viện RICE</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 05/03/2019 12:19:53 CH</li>
+                                    </ul>
+
+                                    <p> Thời gian qua viện RICE đ&atilde; ph&aacute;t hiện v&agrave; dẫn dắt c&aacute;c em đạt được nhiều th&agrave;nh t&iacute;ch ấn tượng tr&ecirc;n đấu trường Quốc tế.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13202/nhung-guong-mat-tieu-bieu-dong-hanh-cung-vien-rice.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13196/tai-sao-nen-tham-gia-cac-cuoc-thi-khoa-hoc.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/22/8586508364380328735.png" alt="Tại sao n&#234;n tham gia c&#225;c cuộc thi Khoa học?"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13196/tai-sao-nen-tham-gia-cac-cuoc-thi-khoa-hoc.html">Tại sao n&#234;n tham gia c&#225;c cuộc thi Khoa học?</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 22/02/2019 12:32:52 SA</li>
+                                    </ul>
+
+                                    <p> Đặc điểm chung của lứa tuổi của học sinh ch&iacute;nh l&agrave; sự t&ograve; m&ograve;. C&aacute;c em muốn biết v&agrave; kh&aacute;m ph&aacute; bất cứ điều g&igrave; m&agrave; c&aacute;c em được tiếp x&uacute;c. C&aacute;c em muốn đặt c&acirc;u hỏi cho tất cả mọi thứ đ&atilde; được kể v&agrave; dạy, lu&ocirc;n mong muốn t&igrave;m ra những kh&iacute;a cạnh mới của ch&uacute;ng.</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13196/tai-sao-nen-tham-gia-cac-cuoc-thi-khoa-hoc.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="flat-course flat-hover-zoom">
+                                <div class="featured-post">
+                                    <div class="overlay">
+                                        <div class="link"></div>
+                                    </div>
+
+                                    <div class="entry-image">
+                                        <a href="https://www.rice-ins.com/tin-tuc/post/13195/intel-isef-la-gi.html"><img src="https://www.rice-ins.com/Uploads//20/2019/2/22/8586508377929079041.jpg" alt="Intel ISEF l&#224; g&#236;"></a>
+                                    </div>
+                                </div><!-- /.featured-post -->
+
+                                <div class="course-content">
+                                    <h4><a href="https://www.rice-ins.com/tin-tuc/post/13195/intel-isef-la-gi.html">Intel ISEF l&#224; g&#236;</a> </h4>
+
+
+
+                                    <ul class="course-meta review clearfix">
+                                        <li class="review-stars">
+                                            <div class="thumb">
+                                                <span><i class="fa fa-list-ul"></i></span>
+                                            </div>
+
+                                            <div class="text">
+                                                <span>Tin tức</span>
+                                            </div>
+                                        </li>
+                                        <li class="review-stars">
+                                            <span class="time">
+                                                <i class="fa fa-calendar"></i>
+                                            </span>
+                                        </li>
+
+                                        <li> 22/02/2019 12:09:18 SA</li>
+                                    </ul>
+
+                                    <p> Hội chợ Khoa học v&agrave; Kỹ thuật Quốc tế Intel (Intel ISEF), một chương tr&igrave;nh của Hiệp hội Khoa học &amp; X&atilde; hội (Mỹ), l&agrave; cuộc thi khoa học tiền đại học quốc tế lớn nhất thế giới.<br />
+&nbsp;</p>
+
+
+                                    <a class="flat-button orange" href="https://www.rice-ins.com/tin-tuc/post/13195/intel-isef-la-gi.html">Xem chi tiết</a>
+                                </div><!-- /.course-content -->
+                            </div>
+                            <div class="pagination pagination-small pagination-right pager wp-pagenavi navbar-right scrollUpTop">
+                                <li><a class='attach link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=5"><i class='fa fa-angle-left'></i></a></li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048">1</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=2">2</a></li><li class="spacer">...</li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=4">4</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=5">5</a></li><li class="active"><a>6</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=7">7</a></li><li><a class='link'  data-ajax="true" data-ajax-update="#402bd8ad-f3cb-4493-a2b7-14c9cdb2733d" data-ajax-mode="replace" href="https://www.rice-ins.com/System/ModuleNewsList/AjaxPaging/15574?menuId=1048&amp;newsId=1048&amp;page=7"><i class='fa fa-angle-right'></i></a></li>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
